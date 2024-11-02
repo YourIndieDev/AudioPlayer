@@ -1,0 +1,15 @@
+{
+  "name": "com.indie.audioplayer",
+  "version": "1.0.0",
+  "displayName": "AudioPlayer",
+  "description": "A versatile audio player and manager for Unity.",
+  "unity": "2023.2.20f1",
+  "author": {
+    "name": "danejw",
+    "email": "",
+    "url": "yourindie.dev"
+  },
+  "dependencies": {
+    "com.unity.modules.core": "1.0.0"
+  }
+}
